@@ -1,8 +1,8 @@
 #include <iostream>
 #include <ostream>
 #include <string>
-#include "../include/Clock.h"
-#include "../include/util.h"
+#include "Clock.h"
+#include "util.h"
 
 using namespace std;
 
